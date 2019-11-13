@@ -1,0 +1,12 @@
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_Domain\obj\Debug\netstandard2.0\DDD_Domain.csprojAssemblyReference.cache
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_Domain\obj\Debug\netstandard2.0\DDD_Domain.csproj.CoreCompileInputs.cache
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_Domain\obj\Debug\netstandard2.0\DDD_Domain.AssemblyInfoInputs.cache
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_Domain\obj\Debug\netstandard2.0\DDD_Domain.AssemblyInfo.cs
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_Domain\bin\Debug\netstandard2.0\DDD_Domain.deps.json
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_Domain\bin\Debug\netstandard2.0\DDD_Domain.dll
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_Domain\bin\Debug\netstandard2.0\DDD_Domain.pdb
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_Domain\bin\Debug\netstandard2.0\DDD_POC.Framework.dll
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_Domain\bin\Debug\netstandard2.0\DDD_POC.Framework.pdb
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_Domain\obj\Debug\netstandard2.0\DDD_Domain.csproj.CopyComplete
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_Domain\obj\Debug\netstandard2.0\DDD_Domain.dll
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_Domain\obj\Debug\netstandard2.0\DDD_Domain.pdb

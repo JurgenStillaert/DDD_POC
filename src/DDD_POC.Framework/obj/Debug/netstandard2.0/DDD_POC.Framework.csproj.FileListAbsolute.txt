@@ -1,0 +1,9 @@
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_POC.Framework\bin\Debug\netstandard2.0\DDD_POC.Framework.deps.json
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_POC.Framework\bin\Debug\netstandard2.0\DDD_POC.Framework.dll
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_POC.Framework\bin\Debug\netstandard2.0\DDD_POC.Framework.pdb
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_POC.Framework\obj\Debug\netstandard2.0\DDD_POC.Framework.csprojAssemblyReference.cache
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_POC.Framework\obj\Debug\netstandard2.0\DDD_POC.Framework.csproj.CoreCompileInputs.cache
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_POC.Framework\obj\Debug\netstandard2.0\DDD_POC.Framework.AssemblyInfoInputs.cache
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_POC.Framework\obj\Debug\netstandard2.0\DDD_POC.Framework.AssemblyInfo.cs
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_POC.Framework\obj\Debug\netstandard2.0\DDD_POC.Framework.dll
+C:\Users\jursti\source\repos\DDD_POC\src\DDD_POC.Framework\obj\Debug\netstandard2.0\DDD_POC.Framework.pdb

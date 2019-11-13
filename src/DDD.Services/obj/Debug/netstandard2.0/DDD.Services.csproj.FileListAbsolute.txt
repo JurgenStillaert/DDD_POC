@@ -1,0 +1,4 @@
+C:\Users\jursti\source\repos\DDD_POC\src\DDD.Services\obj\Debug\netstandard2.0\DDD.Services.csprojAssemblyReference.cache
+C:\Users\jursti\source\repos\DDD_POC\src\DDD.Services\obj\Debug\netstandard2.0\DDD.Services.csproj.CoreCompileInputs.cache
+C:\Users\jursti\source\repos\DDD_POC\src\DDD.Services\obj\Debug\netstandard2.0\DDD.Services.AssemblyInfoInputs.cache
+C:\Users\jursti\source\repos\DDD_POC\src\DDD.Services\obj\Debug\netstandard2.0\DDD.Services.AssemblyInfo.cs
